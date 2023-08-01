@@ -20,6 +20,8 @@
 </p>
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabin-osti)](https://github.com/Rabin-Osti/github-readme-stats)
+
 
 
 
