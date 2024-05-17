@@ -1,14 +1,17 @@
-![title](https://github.com/Rabin-Osti/Rabin-Osti/assets/117830519/8bf131f3-5349-404a-a01c-dd237c78860b)
+![temp (1)](https://github.com/Rabin-Osti/Rabin-Osti/assets/117830519/7df6670e-52b7-4a93-85f4-c07c94e47a7e)
 
-- 🔭 I’m currently working on [E-Commerce Website](https://newabhishekbooks.com/)
+<br/>
 
-- 🤝 Seeking Collaborators [MERN Stack Memoria](https://github.com/Rabin-Osti/MERN-Stack-Memoria-App)
+<div  align="center">
+    
+🔭 I’m currently working on [E-Commerce Website](https://newabhishekbooks.com/)
 
-- 👨‍💻 All of my projects are available at [https://www.rabinosti.com.np/](https://www.rabinosti.com.np/)
+👨‍💻 All of my projects are available at [https://www.rabinosti.com.np/](https://www.rabinosti.com.np/)
 
-- 💬 Ask me about **JavaScript,React.js, Next.js 14, PostgreSQL, Express.js, Mongodb and JWT**
+💬 Ask me about **JavaScript,React.js, Next.js 14, PostgreSQL, Express.js, Mongodb and JWT**
 
-- 📫 How to reach me **ostirabin1@gmail.com**
+📫 How to reach me **ostirabin1@gmail.com**
+</div>
 <br />
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
