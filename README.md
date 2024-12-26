@@ -1,5 +1,4 @@
 <div style="background-color:#0d1117; color:#c9d1d9; padding:20px; width:100vw;">
-    
 <h1>Hi 👋, I'm RABIN OSTI</h1> 
 
 ### 👀 About Me
