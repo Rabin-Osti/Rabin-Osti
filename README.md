@@ -1,28 +1,29 @@
-![temp (1)](https://github.com/Rabin-Osti/Rabin-Osti/assets/117830519/7df6670e-52b7-4a93-85f4-c07c94e47a7e)
-
-<br/>
-
-<div  align="center">
+<div style="background-color:#0d1117; color:#c9d1d9; padding:20px; width:100vw;">
     
-🔭 I’m currently working on [E-Commerce Website](https://github.com/Rabin-Osti/Nextjs14-Ecommerce-With-Zustand)
+<h1>Hi 👋, I'm RABIN OSTI</h1> 
 
-👨‍💻 All of my projects are available at [https://www.rabinosti.com.np/](https://www.rabinosti.com.np/)
+### 👀 About Me
+I am Full-Stack JavaScript Developer. I develop end-to-end web solutions, from building dynamic front-end interfaces to </br> creating scalable
+back-end systems.
 
-💬 Ask me about **JavaScript,React.js, Next.js 14, PostgreSQL, Express.js, Mongodb and JWT**
-
-📫 How to reach me **ostirabin1@gmail.com**
-</div>
-<br />
+- **💼 I'm currently working on an [E-commerce Website](https://www.newabhishekbooks.com.np/)**
+- **🌟 Explore all my projects here: [https://www.rabinosti.com.np/](https://www.rabinosti.com.np/)**
+- **📫 How to reach me: [Email](mailto:rabinosti.dev@gmail.com)**
+- **💡 Ask me about: Next.js 15, React.js, JavaScript, WebRTC, Express.js, MongoDB and PostgreSQL**
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,mongodb,express,mysql,postgres,solidity" />
      <img src="https://skillicons.dev/icons?i=docker,redux,sass,nodejs,py,postman,git,github,styledcomponents,vscode,figma" />
 </div>
 <br />
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rabinosti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabinosti" height="30" width="40" /></a>
 </p>
+</div>
 <br/>
