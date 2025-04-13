@@ -13,8 +13,8 @@ back-end systems.
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,mongodb,express,mysql,postgres,solidity" />
-     <img src="https://skillicons.dev/icons?i=docker,redux,sass,nodejs,py,postman,git,github,styledcomponents,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,mongodb,express,mysql,postgres,aws" />
+     <img src="https://skillicons.dev/icons?i=docker,redux,firebase,nodejs,vercel,postman,git,github,styledcomponents,vscode,figma" />
 </div>
 <br />
 
